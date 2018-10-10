@@ -1,0 +1,6 @@
+_provide	1
+_belong	2
+_sub_belong	3
+_has_tag	4
+_has_price	5
+_has_duration	6
